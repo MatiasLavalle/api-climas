@@ -1,0 +1,28 @@
+
+.conteiner{
+    height: 180px;
+    width: 500px;
+    display: flex;justify-content: center;
+    background-color: rgba(241, 67, 3, 0.609);
+}
+
+li{
+    list-style:none;
+    color: red;
+}
+
+body{
+    display: flex;justify-content: center;align-items: center;
+
+}
+
+
+.boton {
+    height: 90px;
+    width: 200px;
+    font-size: 21px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 1px 1px 10px black;
+
+}
